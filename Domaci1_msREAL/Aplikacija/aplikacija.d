@@ -1,0 +1,1 @@
+aplikacija.o: aplikacija.c

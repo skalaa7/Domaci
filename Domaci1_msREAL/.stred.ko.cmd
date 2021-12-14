@@ -1,0 +1,1 @@
+cmd_/home/andrej/Domaci/Domaci1_msREAL/stred.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/andrej/Domaci/Domaci1_msREAL/stred.ko /home/andrej/Domaci/Domaci1_msREAL/stred.o /home/andrej/Domaci/Domaci1_msREAL/stred.mod.o ;  true
